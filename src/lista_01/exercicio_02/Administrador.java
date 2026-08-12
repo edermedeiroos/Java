@@ -1,4 +1,4 @@
-package lista_01;
+package lista_01.exercicio_02;
 
 public class Administrador extends Funcionario {
     public Administrador(String nome, int matricula, double salario) {

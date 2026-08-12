@@ -1,4 +1,4 @@
-package lista_01;
+package lista_01.exercicio_01;
 
 public class Calculadora {
 

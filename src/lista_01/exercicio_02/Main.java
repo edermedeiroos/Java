@@ -1,6 +1,6 @@
-package lista_01;
+package lista_01.exercicio_02;
 
-public class Exercicio02 {
+public class Main {
     public static void main(String[] args) {
 
         Administrador admin = new Administrador("Ana Silva", 1001, 8500.00);

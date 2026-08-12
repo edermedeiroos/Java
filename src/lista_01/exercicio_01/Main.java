@@ -1,6 +1,6 @@
-package lista_01;
+package lista_01.exercicio_01;
 
-public class Exercicio01 {
+public class Main {
     public static void main(String[] args) {
         Calculadora calc = new Calculadora();
 
