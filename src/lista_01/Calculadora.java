@@ -1,3 +1,5 @@
+package lista_01;
+
 public class Calculadora {
 
     public int somar(int a, int b) {
@@ -37,9 +39,10 @@ public class Calculadora {
         }
         return a / b;
     }
-}
 
-void main() {
-    Calculadora calc = new Calculadora();
-    System.out.println(calc.somar(1, 3.5));
+    public static void main(String[] args) {
+        Calculadora calc = new Calculadora();
+
+        System.out.println(calc.somar(1, 3.5));
+    }
 }
